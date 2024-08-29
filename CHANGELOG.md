@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.6.1](https://github.com/pl4nty/cloudflare-kubernetes-gateway/compare/v0.6.0...v0.6.1) (2024-08-29)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/onsi/ginkgo/v2 to v2.20.1 ([#140](https://github.com/pl4nty/cloudflare-kubernetes-gateway/issues/140)) ([e7a23a1](https://github.com/pl4nty/cloudflare-kubernetes-gateway/commit/e7a23a14b8ce273f257e02481856b1636a0fa214))
+* **deps:** update module sigs.k8s.io/controller-runtime to v0.18.5 ([#131](https://github.com/pl4nty/cloudflare-kubernetes-gateway/issues/131)) ([af5bba9](https://github.com/pl4nty/cloudflare-kubernetes-gateway/commit/af5bba9942bf87257dd3affc498357908e9b847f))
+* **deps:** update module sigs.k8s.io/controller-runtime to v0.19.0 ([#137](https://github.com/pl4nty/cloudflare-kubernetes-gateway/issues/137)) ([4f313e5](https://github.com/pl4nty/cloudflare-kubernetes-gateway/commit/4f313e560f9e418fccb713c2c736fce6c314a284))
+* release-please extra-files ([0543454](https://github.com/pl4nty/cloudflare-kubernetes-gateway/commit/0543454ac23e71250f6f28f556b835a860e27725))
+
 ## [0.6.0](https://github.com/pl4nty/cloudflare-kubernetes-gateway/compare/v0.5.0...v0.6.0) (2024-08-12)
 
 
